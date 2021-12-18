@@ -1,0 +1,4 @@
+/home/userfs/b/bg902/Downloads/assessment_2017_2018/build/CMakeFiles/rebuild_cache.dir
+/home/userfs/b/bg902/Downloads/assessment_2017_2018/build/CMakeFiles/foraging_loop_functions.dir
+/home/userfs/b/bg902/Downloads/assessment_2017_2018/build/CMakeFiles/edit_cache.dir
+/home/userfs/b/bg902/Downloads/assessment_2017_2018/build/CMakeFiles/foraging_loop_functions_autogen.dir
